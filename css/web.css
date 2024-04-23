@@ -621,7 +621,7 @@ a {
 .stats-counter{
   width:100%;
   height: 356px;
-  background-image: url('/img/stats-bg.jpg');
+  background-image: url('../img/stats-bg.jpg');
   padding: 100px 0;
   opacity: 1;
   margin: auto;
@@ -813,15 +813,15 @@ a {
   padding-bottom: 30px;
 }
 .events .swiper-slide{
-  background-image: url(/img/events-1.jpg);
+  background-image: url('../img/events-1.jpg');
   width: 33.33%;
 }
 .events .swiper{
-  background-image: url(/img/events-2.jpg);
+  background-image: url('../img/events-2.jpg');
   width: 33.33%;
 }
 .events .swipe{
-  background-image: url(/img/events-3.jpg);
+  background-image: url('../img/events-3.jpg');
   width: 33.33%;
 }
 .events .event-item {
